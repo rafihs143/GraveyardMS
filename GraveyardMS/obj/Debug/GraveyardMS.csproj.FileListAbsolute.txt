@@ -1,0 +1,56 @@
+C:\Users\User\source\repos\GraveyardMS\GraveyardMS\bin\Debug\GraveyardMS.exe.config
+C:\Users\User\source\repos\GraveyardMS\GraveyardMS\bin\Debug\GraveyardMS.exe
+C:\Users\User\source\repos\GraveyardMS\GraveyardMS\bin\Debug\GraveyardMS.pdb
+C:\Users\User\source\repos\GraveyardMS\GraveyardMS\obj\Debug\GraveyardMS.csprojAssemblyReference.cache
+C:\Users\User\source\repos\GraveyardMS\GraveyardMS\obj\Debug\GraveyardMS.Form1.resources
+C:\Users\User\source\repos\GraveyardMS\GraveyardMS\obj\Debug\GraveyardMS.Properties.Resources.resources
+C:\Users\User\source\repos\GraveyardMS\GraveyardMS\obj\Debug\GraveyardMS.csproj.GenerateResource.cache
+C:\Users\User\source\repos\GraveyardMS\GraveyardMS\obj\Debug\GraveyardMS.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\GraveyardMS\GraveyardMS\obj\Debug\GraveyardMS.exe
+C:\Users\User\source\repos\GraveyardMS\GraveyardMS\obj\Debug\GraveyardMS.pdb
+C:\Users\User\source\repos\GraveyardMS\GraveyardMS\obj\Debug\GraveyardMS.Createacc.resources
+C:\Users\User\source\repos\GraveyardMS\GraveyardMS\obj\Debug\GraveyardMS.Login.resources
+C:\Users\User\source\repos\GraveyardMS\GraveyardMS\obj\Debug\GraveyardMS.Info.resources
+C:\Users\User\source\repos\GraveyardMS\GraveyardMS\obj\Debug\GraveyardMS.Feedback.resources
+C:\DRIVE\VS\GraveyardMS\GraveyardMS\bin\Debug\GraveyardMS.exe.config
+C:\DRIVE\VS\GraveyardMS\GraveyardMS\bin\Debug\GraveyardMS.exe
+C:\DRIVE\VS\GraveyardMS\GraveyardMS\bin\Debug\GraveyardMS.pdb
+C:\DRIVE\VS\GraveyardMS\GraveyardMS\obj\Debug\GraveyardMS.csprojAssemblyReference.cache
+C:\DRIVE\VS\GraveyardMS\GraveyardMS\obj\Debug\GraveyardMS.Createacc.resources
+C:\DRIVE\VS\GraveyardMS\GraveyardMS\obj\Debug\GraveyardMS.Feedback.resources
+C:\DRIVE\VS\GraveyardMS\GraveyardMS\obj\Debug\GraveyardMS.Form1.resources
+C:\DRIVE\VS\GraveyardMS\GraveyardMS\obj\Debug\GraveyardMS.Info.resources
+C:\DRIVE\VS\GraveyardMS\GraveyardMS\obj\Debug\GraveyardMS.Login.resources
+C:\DRIVE\VS\GraveyardMS\GraveyardMS\obj\Debug\GraveyardMS.Properties.Resources.resources
+C:\DRIVE\VS\GraveyardMS\GraveyardMS\obj\Debug\GraveyardMS.csproj.GenerateResource.cache
+C:\DRIVE\VS\GraveyardMS\GraveyardMS\obj\Debug\GraveyardMS.csproj.CoreCompileInputs.cache
+C:\DRIVE\VS\GraveyardMS\GraveyardMS\obj\Debug\GraveyardMS.exe
+C:\DRIVE\VS\GraveyardMS\GraveyardMS\obj\Debug\GraveyardMS.pdb
+C:\DRIVE\VS\GraveyardMS\GraveyardMS\bin\Debug\en-US\GraveyardMS.resources.dll
+C:\DRIVE\VS\GraveyardMS\GraveyardMS\obj\Debug\GraveyardMS.checkperson.resources
+C:\DRIVE\VS\GraveyardMS\GraveyardMS\obj\Debug\GraveyardMS.checkplace.resources
+C:\DRIVE\VS\GraveyardMS\GraveyardMS\obj\Debug\GraveyardMS.checkplace.en-US.resources
+C:\DRIVE\VS\GraveyardMS\GraveyardMS\obj\Debug\en-US\GraveyardMS.resources.dll
+C:\DRIVE\VS\GraveyardMS\GraveyardMS\obj\Debug\GraveyardMS.buy.resources
+C:\DRIVE\VS\GraveyardMS\GraveyardMS\obj\Debug\GraveyardMS.InfoAdmin.resources
+E:\Visual Studio\GraveyardMS\GraveyardMS\bin\Debug\GraveyardMS.exe.config
+E:\Visual Studio\GraveyardMS\GraveyardMS\bin\Debug\GraveyardMS.exe
+E:\Visual Studio\GraveyardMS\GraveyardMS\bin\Debug\GraveyardMS.pdb
+E:\Visual Studio\GraveyardMS\GraveyardMS\bin\Debug\en-US\GraveyardMS.resources.dll
+E:\Visual Studio\GraveyardMS\GraveyardMS\obj\Debug\GraveyardMS.csprojAssemblyReference.cache
+E:\Visual Studio\GraveyardMS\GraveyardMS\obj\Debug\GraveyardMS.buy.resources
+E:\Visual Studio\GraveyardMS\GraveyardMS\obj\Debug\GraveyardMS.checkperson.resources
+E:\Visual Studio\GraveyardMS\GraveyardMS\obj\Debug\GraveyardMS.checkplace.resources
+E:\Visual Studio\GraveyardMS\GraveyardMS\obj\Debug\GraveyardMS.Createacc.resources
+E:\Visual Studio\GraveyardMS\GraveyardMS\obj\Debug\GraveyardMS.Feedback.resources
+E:\Visual Studio\GraveyardMS\GraveyardMS\obj\Debug\GraveyardMS.Form1.resources
+E:\Visual Studio\GraveyardMS\GraveyardMS\obj\Debug\GraveyardMS.Info.resources
+E:\Visual Studio\GraveyardMS\GraveyardMS\obj\Debug\GraveyardMS.InfoAdmin.resources
+E:\Visual Studio\GraveyardMS\GraveyardMS\obj\Debug\GraveyardMS.Login.resources
+E:\Visual Studio\GraveyardMS\GraveyardMS\obj\Debug\GraveyardMS.Properties.Resources.resources
+E:\Visual Studio\GraveyardMS\GraveyardMS\obj\Debug\GraveyardMS.checkplace.en-US.resources
+E:\Visual Studio\GraveyardMS\GraveyardMS\obj\Debug\GraveyardMS.csproj.GenerateResource.cache
+E:\Visual Studio\GraveyardMS\GraveyardMS\obj\Debug\GraveyardMS.csproj.CoreCompileInputs.cache
+E:\Visual Studio\GraveyardMS\GraveyardMS\obj\Debug\en-US\GraveyardMS.resources.dll
+E:\Visual Studio\GraveyardMS\GraveyardMS\obj\Debug\GraveyardMS.exe
+E:\Visual Studio\GraveyardMS\GraveyardMS\obj\Debug\GraveyardMS.pdb

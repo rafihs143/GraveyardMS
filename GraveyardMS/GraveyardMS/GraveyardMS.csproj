@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{895B9976-F0C3-4A22-A9D9-73C7C5239FFC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>GraveyardMS</RootNamespace>
+    <AssemblyName>GraveyardMS</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdminPerson.cs" />
+    <Compile Include="buy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="buy.Designer.cs">
+      <DependentUpon>buy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="checkperson.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="checkperson.Designer.cs">
+      <DependentUpon>checkperson.cs</DependentUpon>
+    </Compile>
+    <Compile Include="checkplace.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="checkplace.Designer.cs">
+      <DependentUpon>checkplace.cs</DependentUpon>
+    </Compile>
+    <Compile Include="contact.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="contact.Designer.cs">
+      <DependentUpon>contact.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Createacc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Createacc.Designer.cs">
+      <DependentUpon>Createacc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Feedback.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Feedback.Designer.cs">
+      <DependentUpon>Feedback.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Info.Designer.cs">
+      <DependentUpon>Info.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InfoAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InfoAdmin.Designer.cs">
+      <DependentUpon>InfoAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="paymentinfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="paymentinfo.Designer.cs">
+      <DependentUpon>paymentinfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Person.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Person.Designer.cs">
+      <DependentUpon>Person.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="User.cs" />
+    <Compile Include="VisitorDataAccess.cs" />
+    <Compile Include="Visitor.cs" />
+    <Compile Include="VisitorsInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VisitorsInfo.Designer.cs">
+      <DependentUpon>VisitorsInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VisitorsInfoDataAccess.cs" />
+    <EmbeddedResource Include="buy.resx">
+      <DependentUpon>buy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="checkperson.resx">
+      <DependentUpon>checkperson.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="checkplace.en-US.resx">
+      <DependentUpon>checkplace.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="checkplace.resx">
+      <DependentUpon>checkplace.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="contact.resx">
+      <DependentUpon>contact.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Createacc.resx">
+      <DependentUpon>Createacc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Feedback.resx">
+      <DependentUpon>Feedback.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Info.resx">
+      <DependentUpon>Info.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InfoAdmin.resx">
+      <DependentUpon>InfoAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Person.resx">
+      <DependentUpon>Person.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="VisitorsInfo.resx">
+      <DependentUpon>VisitorsInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\203-2033791_different-colour-full-background-hd.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5786eb1e-d672-4cfb-8cf5-283703cc0b3f.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 1%403x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 2%403x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 3%403x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 4%403x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 5%403x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 6%403x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 7%403x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 8%403x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 9%403x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 10%403x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\create-this-zombie-grave-horror-video-intro.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
